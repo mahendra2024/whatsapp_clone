@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71197233248",
+    "project_id": "wa-clone-5fb64",
+    "storage_bucket": "wa-clone-5fb64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71197233248:android:b9066c7ef0fcdcc0563305",
+        "android_client_info": {
+          "package_name": "com.example.waclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71197233248-hafgm6i3i3ojbdk57b1m9pnu3f79c7qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNpaaC0YUOVH1an3NvQaYui7BzHF8hZic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71197233248-hafgm6i3i3ojbdk57b1m9pnu3f79c7qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
